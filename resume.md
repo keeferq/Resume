@@ -20,5 +20,5 @@ Fall 2023 - Present
 
 
 <a href="https://drive.google.com/file/d/1jODs0x4Bvh9PMtwfCMBKfvEy92a8GCEP/view?usp=sharing">
-  <img src="/Lab_1/gcp_and_depth.png" alt="Thumbnail" width="170" height="220">
+  <img src="gcp_and_depth.png" alt="Thumbnail" width="170" height="220">
 </a>
