@@ -15,6 +15,7 @@ I am currently persuing a undergraduate degree in Geography at Appalachian State
 <a href="https://drive.google.com/file/d/1jODs0x4Bvh9PMtwfCMBKfvEy92a8GCEP/view?usp=sharing">
   <img src="flowline.png" alt="Thumbnail" width="220" height="170">
 </a>
+
 <iframe src="https://appalachian.maps.arcgis.com/apps/instant/basic/index.html?appid=3b5775b3603a4d2abb3ec15eac5dfe45" width="660" height="495" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
 
@@ -24,7 +25,6 @@ I am currently persuing a undergraduate degree in Geography at Appalachian State
 Fall 2023 - Present
 
 ## Professional Experience 
-
 ###### **Undergraduate Research Assistant - Appalachian State University - Boone, NC**
 - Spring 2024 - Present
 ###### **Front of House - Hole Doughnuts - Asheville, NC**
