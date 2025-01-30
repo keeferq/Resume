@@ -25,7 +25,7 @@ Fall 2023 - Present
 
 ## Professional Experience 
 
- ###### **Undergraduate Research Assistant - Appalachian State University - Boone, NC**
+###### **Undergraduate Research Assistant - Appalachian State University - Boone, NC**
 - Spring 2024 - Present
 ###### **Front of House - Hole Doughnuts - Asheville, NC**
 - Spring 2021 - Winter 2023
