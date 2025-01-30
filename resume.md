@@ -6,13 +6,13 @@ Boone, NC
 ## Summary
 I am currently persuing a undergraduate degree in Geography at Appalachian State University with a concentration in [GIS](https://en.wikipedia.org/wiki/Geographic_information_system). Currently I am working on several research projects with professors with hopes of publishing academic articles. My main research interests are in remote sensing, and spatial statistics.
 ## Portfolio
-<a href="https://drive.google.com/file/d/1jODs0x4Bvh9PMtwfCMBKfvEy92a8GCEP/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1TGwoSHh8xILrGv-rXyRZLbZ7iSCMeL_h/view?usp=sharing">
   <img src="hex.png" alt="Thumbnail" width="220" height="170">
 </a>
-<a href="https://drive.google.com/file/d/1jODs0x4Bvh9PMtwfCMBKfvEy92a8GCEP/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1nYEsCC5xW9l1GHKEKzQ8g3C142n0U-zi/view?usp=sharing">
   <img src="gradcirc.png" alt="Thumbnail" width="220" height="170">
 </a>
-<a href="https://drive.google.com/file/d/1jODs0x4Bvh9PMtwfCMBKfvEy92a8GCEP/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1TwS90aWGVHSFjf1n4qo1yV29yOnFVtjS/view?usp=sharing">
   <img src="flowline.png" alt="Thumbnail" width="220" height="170">
 </a>
 
